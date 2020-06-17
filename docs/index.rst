@@ -33,6 +33,7 @@ after code
 .. toctree::
    :caption: Table of Contents
    :name: mastertoc
+   :includehidden: false
    
    fooddoc1
    fooddoc2
