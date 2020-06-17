@@ -21,7 +21,7 @@ True   False  True
 
 before code
 
-    .. literalinclude:: hellofood.c
+    .. literalinclude:: ../hellofood.c
     :linenos:
     :language: c
     :lines: 1, 3-5
