@@ -22,6 +22,6 @@ True   False  True
 before code
 
     .. literalinclude:: ../hellofood.c
-   :lines: 1,3,5-10,20- 
+         :lines: 1,3,5-10,20- 
     
 after code
