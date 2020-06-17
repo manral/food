@@ -18,3 +18,12 @@ True   False  True
 |  simple text | 2 | 3         |
 +--------------+---+-----------+
 
+
+.. literalinclude:: myfood.c
+    :linenos:
+    :language: c
+    :lines: 1, 3-5
+    :start-after: 3
+    :end-before: 5
+    
+    
