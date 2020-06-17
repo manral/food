@@ -27,5 +27,5 @@ before code
 after code
 
 
-:ref:`nicer reference' <fooddoc1.rst>
+:ref:`nicer reference <fooddoc1.rst>'
 
