@@ -19,11 +19,11 @@ True   False  True
 +--------------+---+-----------+
 
 
-.. literalinclude:: myfood.c
+.. literalinclude:: hellofood.c
     :linenos:
     :language: c
-    :lines: 1, 3-5
-    :start-after: 3
-    :end-before: 5
+    :lines: 10, 10-15
+    :start-after: 10
+    :end-before: 15
     
     
