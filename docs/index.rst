@@ -25,3 +25,7 @@ before code
          :lines: 1,3,5-10,20- 
     
 after code
+
+
+:ref:`nicer reference <fooddoc1.rst>
+
