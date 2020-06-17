@@ -29,11 +29,11 @@ after code
 
 :ref:`nicer reference <fooddoc1.rst>'
 
-.. toctree::
- :maxdepth: 2
- :numbered:
  
-   index
+.. toctree::
+   :caption: Table of Contents
+   :name: mastertoc
+   
    fooddoc1
    fooddoc2
    
