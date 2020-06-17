@@ -30,8 +30,9 @@ after code
 :ref:`nicer reference <fooddoc1.rst>'
 
 .. toctree::
- :numbered:
  :maxdepth: 2
+ :numbered:
+ 
    index
    fooddoc1
    fooddoc2
