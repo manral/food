@@ -30,6 +30,6 @@ Time to cook
 .. tabularcolumns:: |l|c|p{5cm}|
 
 +--------------+---+-----------+
-|  simple text | 2 | 3         |
+|  super fast | 2 | 3         |
 +--------------+---+-----------+
 
