@@ -1,25 +1,22 @@
 ---------------------
-  My Spoon Subtitle1
+  My Salad
 ---------------------
 
-My Spoon Section Title1
+My Salad Architecture
 ======================
 .. image:: ../images/fruit-2367029_1920.jpg
 
 
 
-My Spoon Section Title2
+My Salad Example Code
 ======================
 
-before code- empty plate
+Use below code to make salad in no time. 
 
     .. literalinclude:: ../hellofood.c
-         :lines: 1,3,5-16
+         :lines: 5-20
     
-after code- full plate
-
-
-My Spoon Section Title3
+Salad Ingredients
 ======================
 =====  =====  ======
    Inputs     Output
@@ -31,7 +28,7 @@ True   False  True
 =====  =====  ======
 
 
-My Spoon Section Title4
+Salad Spices
 ========================
 
 .. tabularcolumns:: |l|c|p{5cm}|
