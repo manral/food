@@ -8,16 +8,6 @@ int main()
 
 
 
-/*my salad recipe*/
-int mysalad()
-{
-  printf("my salad\n");
-  return True;
-}
-/*End of my salad recipe*/
-
-
-
 /*my drink recipe*/
 int mydrink()
 {
@@ -25,6 +15,16 @@ int mydrink()
   return True;
 }
 /*End of my drink recipe*/
+
+
+
+/*my salad recipe*/
+int mysalad()
+{
+  printf("my salad\n");
+  return True;
+}
+/*End of my salad recipe*/
 
 
 
