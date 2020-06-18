@@ -1,3 +1,8 @@
+================
+ Document Title
+================
+
+
 .. toctree::
    :caption: Table of Contents
    :name: mastertoc
