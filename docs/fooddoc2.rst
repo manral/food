@@ -30,10 +30,9 @@ True   False  True
 
 Salad Spices
 ========================
-
 .. tabularcolumns:: |l|c|p{5cm}|
 +--------------+---+-----------+
-|  red chilli | 2 | 3         |
+|  red chilli  | 2 | 3         |
 +--------------+---+-----------+
 
 
