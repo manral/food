@@ -8,6 +8,12 @@
 
 My Spoon Section Title1
 ======================
+.. image:: ../images/fruit-2367029_1920.jpg
+
+
+
+My Spoon Section Title2
+======================
 
 before code- empty plate
 
@@ -17,7 +23,7 @@ before code- empty plate
 after code- full plate
 
 
-My Spoon Section Title2
+My Spoon Section Title3
 ======================
 =====  =====  ======
    Inputs     Output
@@ -29,8 +35,8 @@ True   False  True
 =====  =====  ======
 
 
-My Spoon Section Title3
-======================
+My Spoon Section Title4
+========================
 
 .. tabularcolumns:: |l|c|p{5cm}|
 
