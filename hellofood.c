@@ -8,13 +8,13 @@ int main()
 
 
 
-/*my drink recipe*/
-int mydrink()
+/*my plate recipe*/
+int myplate()
 {
-  printf("mydrink\n");
+  printf("myplate\n");
   return True;
 }
-/*End of my drink recipe*/
+/*End of my plate recipe*/
 
 
 
