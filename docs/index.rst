@@ -3,6 +3,7 @@
    :name: mastertoc
    :includehidden:
    
+   index 
    fooddoc1
    fooddoc2
    
