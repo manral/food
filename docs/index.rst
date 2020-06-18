@@ -8,6 +8,13 @@
 
 My Food Section Title1
 ======================
+before code- empty plate
+
+.. literalinclude:: ../hellofood.c
+     :lines: 1,3,5-16
+
+before code- full plate
+
 My Food Section Title2
 ======================
 My Food Section Title3
