@@ -9,7 +9,7 @@ My Plate Making API code
 Use below code to cook a delicious dish. Use either stove or microwave.
 
     .. literalinclude:: ../hellofood.c
-         :lines: 1,3,5-16
+         :lines: 11-17
     
 
 Ingredients 
