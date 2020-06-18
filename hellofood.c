@@ -2,12 +2,37 @@
 
 int main()
 {
-printf("hello food");
+  printf("hello food\n");
+  return True;
 }
 
-/*my food recipe*/
-int myfoodrecipe()
+
+
+/*my salad recipe*/
+int mysalad()
 {
-printf("\nmyfoodrecipe\n");
+  printf("my salad\n");
+  return True;
 }
-/*End of my food recipe*/
+/*End of my salad recipe*/
+
+
+
+/*my drink recipe*/
+int mydrink()
+{
+  printf("mydrink\n");
+  return True;
+}
+/*End of my drink recipe*/
+
+
+
+/*my lunch recipe*/
+int mylunch()
+{
+  printf("my lunch recipe\n");
+  return True;
+}
+/*End of my lunch recipe*/
+
