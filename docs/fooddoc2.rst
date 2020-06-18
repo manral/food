@@ -40,23 +40,6 @@ My Spoon Section Title4
 |  simple text | 2 | 3         |
 +--------------+---+-----------+
 
-My Spoon Title4
-======================
-My Spoon Section Title5
-======================
-
----------------------
-  My Spoon Subtitle2
----------------------
-My Spoon Section Title1
-======================
-
-I eat food folowing way:
-
-
-My Spoon Section Title2
-======================
-
 
 
 
