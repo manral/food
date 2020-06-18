@@ -1,20 +1,18 @@
 ---------------------
-  My Plate Subtitle1
+  My Plate
 ---------------------
 .. image:: ../images/raspberries-1426859_1920.jpg
 
-My Plate Section Title1
-======================
+My Plate Making API code
+========================
 
-before code- empty plate
+Use below code to cook a delicious dish. Use either stove or microwave.
 
     .. literalinclude:: ../hellofood.c
          :lines: 1,3,5-16
     
-After code- full plate
 
-
-My Plate Section Title2
+Ingredients 
 ======================
 =====  =====  ======
    Inputs     Output
@@ -26,7 +24,7 @@ True   False  True
 =====  =====  ======
 
 
-My Plate Section Title3
+Time to cook
 ======================
 
 .. tabularcolumns:: |l|c|p{5cm}|
@@ -34,29 +32,4 @@ My Plate Section Title3
 +--------------+---+-----------+
 |  simple text | 2 | 3         |
 +--------------+---+-----------+
-
-My Plate Section Title4
-======================
-My Plate Section Title5
-======================
-
----------------------
-  My Plate Subtitle2
----------------------
-My Plate Section Title1
-======================
-
-I cook food folowing way:
-
-
-My Food Section Title2
-======================
-
-
-
-
-
-
-
-
 
