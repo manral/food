@@ -18,6 +18,7 @@ My Food Section Title1
    :name: mastertoc
    :includehidden:
    
+   index 
    fooddoc1
    fooddoc2
    fooddoc3
