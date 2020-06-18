@@ -26,9 +26,10 @@ True   False  True
 
 Time to cook
 ======================
-
 .. tabularcolumns:: |l|c|p{5cm}|
+
 +--------------+---+-----------+
-|  super fast | 2 | 3         |
+|  super fast  | 2 | 3         |
 +--------------+---+-----------+
+
 
