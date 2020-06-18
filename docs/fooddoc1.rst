@@ -1,8 +1,24 @@
-hello fooddoc1
+======================
+ My Food Factory Title
+======================
 
-This will solve the hunger
+---------------------
+  My Plate Subtitle1
+---------------------
+
+My Plate Section Title1
+======================
+
+before code- empty plate
+
+    .. literalinclude:: ../hellofood.c
+         :lines: 1,3,5-16
+    
+before code- full plate
 
 
+My Plate Section Title2
+======================
 =====  =====  ======
    Inputs     Output
 ------------  ------
@@ -13,6 +29,8 @@ True   False  True
 =====  =====  ======
 
 
+My Plate Section Title3
+======================
 
 .. tabularcolumns:: |l|c|p{5cm}|
 
@@ -20,13 +38,27 @@ True   False  True
 |  simple text | 2 | 3         |
 +--------------+---+-----------+
 
+My Plate Section Title4
+======================
+My Plate Section Title5
+======================
 
-before code
+---------------------
+  My Plate Subtitle2
+---------------------
+My Plate Section Title1
+======================
 
-    .. literalinclude:: ../hellofood.c
-         :lines: 1,3,5-10,20- 
-    
-after code
+I cook food folowing way:
+
+
+My Food Section Title2
+======================
+
+
+
+
+
 
 
 
