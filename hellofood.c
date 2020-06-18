@@ -28,11 +28,11 @@ int mysalad()
 
 
 
-/*my lunch recipe*/
-int mylunch()
+/*my coffee recipe*/
+int mycoffee()
 {
-  printf("my lunch recipe\n");
+  printf("my coffee\n");
   return True;
 }
-/*End of my lunch recipe*/
+/*End of my coffee recipe*/
 
